@@ -16,7 +16,7 @@ click-plugins==1.0.4
 cligj==0.5.0
 cloudpickle==0.4.0
 colorcet==0.9.1
-cryptography==2.3.1
+cryptography==3.2
 cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.5.0
