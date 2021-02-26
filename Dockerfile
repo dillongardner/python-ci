@@ -4,3 +4,4 @@ RUN apt-get update
 RUN apt-get install zip unzip
 RUN pip install -r requirements.txt 
 RUN pip install awscli
+RUN pip install awsebcli --upgrade --user
