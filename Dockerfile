@@ -1,4 +1,4 @@
-FROM python:3.6.5-jessie
+FROM python:3.7.10-buster
 ADD ./requirements.txt .
 RUN apt-get update
 RUN apt-get install zip unzip
